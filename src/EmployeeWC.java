@@ -32,15 +32,6 @@ public class EmployeeWC {
                         break;
                     default:
 
-                       // int Duplicate_2 = 0;
-                        //int getDuplicate2 = 0;
-                    //case getDuplicate2 FULL_TIME:
-                      //  workingHrs = 8;
-                        //break;
-                    //case PART_TIME_2:
-                      //  workingHrs = 4;
-                        //break;
-                    //default_2:
                         workingHrs = 0;
                         break;
                 }
